@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   
-<div align="center">
+<div align="center" style="width: 48%;">
 🍊🍊
   
 &nbsp;
@@ -11,9 +11,11 @@
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=queem2)](https://solved.ac/queem2)
 
 </div>
+<div style="width: 48%;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeKim04&show_icons=true&theme=omni)
 
+</div>
 </div>
 
 -------------------------------------------------------
