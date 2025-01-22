@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Be%20patient&fontSize=90)
 
-<div style={{display: 'flex'}}>
-  
 <div>
+  
+<div align="center">
 🍊🍊
+&nbsp;
   
 [![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOrangeKim04&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=queem2)](https://solved.ac/queem2)
