@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Be%20patient&fontSize=90)
 
-<div style="display: flex; justify-content: space-between;">
   
-<div align="center" style="width: 48%;">
+<div align="center" >
 🍊🍊
   
 &nbsp;
@@ -11,13 +10,16 @@
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=queem2)](https://solved.ac/queem2)
 
 </div>
-<div style="width: 48%;">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeKim04&show_icons=true&theme=omni)
 
 </div>
-</div>
 
 -------------------------------------------------------
 
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeKim04&layout=compact&theme=omni)
+
+</div>
