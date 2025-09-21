@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Be%20patient&fontSize=90)
 
   
-<div align="center" >
+<div align="left" >
 <h2>🍊🍊</h2>
+</div>
 <div align="left">
 
 <ul>
@@ -25,7 +26,6 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=queem2)](https://solved.ac/queem2)
 
-</div>
 
 &nbsp;
 
