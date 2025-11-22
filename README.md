@@ -17,7 +17,6 @@
   <li><b>2025 GDGoC KR HACKATHON: 백야 참가</b> (2025.01)</li>
   <li><b>연합 IT 동아리 It's Time 7th FE</b> (2025.03 ~ 2025.07)</li>
   <li><b>UMC Server(Spring) 트랙 8기</b> (2025.03 ~ 2025.08)</li>
-  <li><b>2025 관광 데이터 활용 공모전 본선 진출</b> (2025.05 ~ )</li>
   <li><b>KT 대학생 IT 서포터즈 KIT 3기</b> (2025.05 ~ 2025.08)</li>
 </ul>
 
