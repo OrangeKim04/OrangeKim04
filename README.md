@@ -26,7 +26,7 @@
 # Baekjoon Online Judge
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={queem2})](https://solved.ac/{queem2})
-
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=queem2)](https://solved.ac/queem2)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
