@@ -23,9 +23,11 @@
 </div>
 <br>
 
-# Baekjoon Online Judge
-[![Solved.ac
+## Baekjoon Online Judge
+<div align="center">
+  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=queem2)](https://solved.ac/queem2)
+</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
