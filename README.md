@@ -23,7 +23,10 @@
 </div>
 <br>
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=queem2)](https://solved.ac/queem2)
+# Baekjoon Online Judge
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={queem2}" width=40% />
+</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
