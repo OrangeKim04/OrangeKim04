@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Be%20patient&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Be%20patient&fontSize=80&fontAlignY=50)
 
   
 <div align="left" >
